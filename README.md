@@ -1,6 +1,6 @@
 # Typescript template for OpenFaaS
 
-This template is based on the official `node12` template from OpenFaaS. It allows you to write your function in Typescript, that will be compiled to javascript during the build process. THis template uses openfaas/classic-watchdog
+This template is based on the official `node12` template from OpenFaaS. It allows you to write your function in Typescript, that will be compiled to javascript during the build process. This template uses openfaas/classic-watchdog
 
 ## Usage
 
